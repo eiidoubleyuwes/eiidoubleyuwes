@@ -13,4 +13,5 @@ I am also interested in the following areas of cloud computing:
 Artificial Intelligence: Machine learning, deep learning
 Internet of Things (IoT): Edge computing, data analytics
 Serverless Computing: Lambda, Azure Functions, Cloud Functions
-I am always looking for new challenges and opportunities to learn and grow. If you have any projects or opportunities that you think I might be a good fit for, please feel free to reach out to me.
+I am always looking for new challenges and opportunities to learn and grow. 
+If you have any projects or opportunities that you think I might be a good fit for, please feel free to reach out to me.
