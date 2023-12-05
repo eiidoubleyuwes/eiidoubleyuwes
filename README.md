@@ -15,3 +15,4 @@ Internet of Things (IoT): Edge computing, data analytics
 Serverless Computing: Lambda, Azure Functions, Cloud Functions
 I am always looking for new challenges and opportunities to learn and grow. 
 If you have any projects or opportunities that you think I might be a good fit for, please feel free to reach out to me.
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/eiidoubleyuwes/langs)](https://githubtrends.io)
