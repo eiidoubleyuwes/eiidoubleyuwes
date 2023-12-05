@@ -16,4 +16,5 @@ Serverless Computing: Lambda, Azure Functions, Cloud Functions
 I am always looking for new challenges and opportunities to learn and grow. 
 If you have any projects or opportunities that you think I might be a good fit for, please feel free to reach out to me.
 
-https://api.githubtrends.io/user/svg/eiidoubleyuwes/langs?time_range=one_year&include_private=True&compact=True&theme=classic
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/eiidoubleyuwes/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/eiidoubleyuwes/repos?time_range=one_year&theme=classic)](https://githubtrends.io)
