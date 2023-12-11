@@ -16,3 +16,5 @@ If you have any projects or opportunities that you think I might be a good fit f
 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/eiidoubleyuwes/repos?time_range=one_year&theme=classic)](https://githubtrends.io)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/eiidoubleyuwes/langs?time_range=one_year&compact=True&theme=classic)](https://githubtrends.io)
