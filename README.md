@@ -5,9 +5,13 @@ I am always looking for new opportunities to learn and grow in the cloud computi
 Here are some of my key skills and interests:
 
 Cloud Platforms: AWS,GCP
+
 Cloud Application Development: Node.js(Mild), Python, Go, Rust
+
 DevOps: CI/CD, Infrastructure as Code, Ansible, Terraform
+
 Cloud Security: IAM, VPC, WAF
+
 I am also interested in the following areas of cloud computing:
 
 Serverless Computing: Lambda,Cloud Functions
