@@ -2,25 +2,6 @@ My name is Baraka Mnjala Mbugua and I am a cloud computing enthusiast with a pas
 
 I am always looking for new opportunities to learn and grow in the cloud computing field. I am also interested in connecting with other cloud professionals and collaborating on projects.
 
-Here are some of my key skills and interests:
-
-Cloud Platforms: AWS,GCP
-
-Cloud Application Development: Node.js(Mild), Python, Go, Rust
-
-DevOps: CI/CD, Infrastructure as Code, Ansible, Terraform
-
-Cloud Security: IAM, VPC, WAF
-
-I am also interested in the following areas of cloud computing:
-
-Serverless Computing: Lambda,Cloud Functions
-I am always looking for new challenges and opportunities to learn and grow. 
-If you have any projects or opportunities that you think I might be a good fit for, please feel free to reach out to me.
-
-I am on a constant quest to learn a new language every month.
-
-
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/eiidoubleyuwes/repos?time_range=one_year&theme=classic)](https://githubtrends.io)  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/eiidoubleyuwes/langs?time_range=one_year&compact=True&theme=classic)](https://githubtrends.io)
 
 <figure><embed src="https://wakatime.com/share/@018c5e2f-5508-45e8-a08b-ca039be9381f/94890531-f727-42ac-8c46-3e96bdf02c40.svg"></embed></figure>
