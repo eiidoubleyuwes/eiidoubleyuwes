@@ -1,19 +1,21 @@
 Hello there,My name is Baraka Mbugua and I'm an:
 
-Experienced programmer with a passion for building and learning. Skilled in a variety of programming languages and cloud platforms. Eager to contribute to new and challenging projects.
+Experienced programmer with a passion for building and learning. Skilled in a variety of programming languages and cloud platforms. 
+
+I am eager to contribute to new and challenging projects.
 
 With skills in:
 
-Programming Languages: Rust, C/C++, R (Statistics)
-Cloud Technologies: AWS, GCP, Azure
-System Administration: Linux, Bash Scripting
-Web Development: HTML, CSS, JavaScript
-Other: PowerShell Scripting
+1. Programming Languages: Rust, C/C++, R (Statistics)
+2. Cloud Technologies: AWS, GCP, Azure
+3. System Administration: Linux, Bash Scripting
+4. Web Development: HTML, CSS, JavaScript
+5. Other: PowerShell Scripting
 
 And I love:
 
-Formula 1
-Continuous Learning (New Technologies & Languages)
+1. Formula 1
+2. Continuous Learning (New Technologies & Languages)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/eiidoubleyuwes/repos?time_range=one_year&theme=classic)](https://githubtrends.io)  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/eiidoubleyuwes/langs?time_range=one_year&compact=True&theme=classic)](https://githubtrends.io)
 
