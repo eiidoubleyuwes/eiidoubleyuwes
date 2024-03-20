@@ -6,11 +6,11 @@ I am eager to contribute to new and challenging projects.
 
 With skills in:
 
-1. Programming Languages: Rust, C/C++, R (Statistics)
-2. Cloud Technologies: AWS, GCP, Azure
-3. System Administration: Linux, Bash Scripting
-4. Web Development: HTML, CSS, JavaScript
-5. Other: PowerShell Scripting
+1. Programming Languages: Rust, C/C++, R (Statistics), Dart and the Flutter framework.
+2. Cloud Technologies: AWS, GCP, Azure and Linode.
+3. System Administration: Linux, Bash Scripting and Ansible.
+4. Web Development: HTML, CSS, JavaScript.
+5. Other: PowerShell Scripting, Python, Wordpress.
 
 And I love:
 
