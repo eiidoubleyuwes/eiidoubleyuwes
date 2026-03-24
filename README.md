@@ -29,9 +29,7 @@ I’m particularly interested in:
 ## Beyond work
 I enjoy **Formula 1**, continuous learning, and exploring new tools, platforms, and programming languages.
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/eiidoubleyuwes/repos?time_range=one_year&theme=classic)](https://githubtrends.io)  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/eiidoubleyuwes/langs?time_range=one_year&compact=True&theme=classic)](https://githubtrends.io)
-
-<figure><embed src="https://wakatime.com/share/@018c5e2f-5508-45e8-a08b-ca039be9381f/94890531-f727-42ac-8c46-3e96bdf02c40.svg"></embed></figure>
+[![Baraka's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiidoubleyuwes)](https://github.com/anuraghazra/github-readme-stats)
 
                     
               
